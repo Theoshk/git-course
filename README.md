@@ -22,3 +22,7 @@ remote to local : git clone
 6.
 7.
 
+## Branching
+we use dev branch to eork with other developers without breaking the "main cobe."
+`git checkout -bdev`
+
