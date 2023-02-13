@@ -18,3 +18,7 @@ remote to local : git clone
 4. retreive modification from the remote repositry `git pull`
 
 ** Do not forget the `` git status`` to keep track of the curuent state.
+5.
+6.
+7.
+
