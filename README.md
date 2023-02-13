@@ -15,9 +15,6 @@ remote to local : git clone
 1. Gather of modifed files :`git add --all`
 2. name the group of modification : `git commit -m "your description"`
 3. send to the cloud/remote repository  :`git push`
+4. retreive modification from the remote repositry `git pull`
 
 ** Do not forget the `` git status`` to keep track of the curuent state.
-
-
-######
-****** ####
